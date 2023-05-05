@@ -56,7 +56,7 @@ if(room == Room1)
 		xp_needed = 100;
 		createSpawner = 0;
 		killCount = 0;
-		EnemySpawner.cdtimer = 5;
+		
 		obj_Player.strength = obj_Player.strengthMin + obj_Player.goldAttack;
 		
 		
